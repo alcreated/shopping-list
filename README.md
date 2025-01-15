@@ -3,3 +3,5 @@
 - Yogurt 
 - Salmon
 - Chicken 
+- Birthday candles
+- Strawberry cake
